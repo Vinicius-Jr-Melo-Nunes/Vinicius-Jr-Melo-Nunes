@@ -46,4 +46,4 @@ Olá. Eu sou o Vinicius!
 
 [![Linkedin: Vinicius Nunes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-nunes-8a67b3204/)](https://www.linkedin.com/in/vinicius-nunes-8a67b3204/)
 [![Gmail Badge](https://img.shields.io/badge/-vjmn30@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjmn30@gmail.com)](mailto:vjmn30@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub Vinicius Nunes]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Vinicius-Jr-Melo-Nunes)
