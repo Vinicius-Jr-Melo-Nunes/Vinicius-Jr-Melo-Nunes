@@ -1,4 +1,7 @@
 
+
+<marquee bgcolor="#4B5C67" direction="Up" height="66" scrollamount="2" style="color: #666; font-family: Areal; font-size: 14pt; color: #fff;" width="50%" >Olá. Eu sou o Vinicius!</marquee>
+
 Olá. Eu sou o Vinicius!
 
 <h3> :man: &nbsp;Sobre mim </h3>
@@ -45,5 +48,5 @@ Olá. Eu sou o Vinicius!
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Vinicius Nunes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-nunes-8a67b3204/)](https://www.linkedin.com/in/vinicius-nunes-8a67b3204/)
-[![Gmail Badge](https://img.shields.io/badge/-vjmn30@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjmn30@gmail.com)](mailto:vjmn30@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vjmn30@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjmn30@gmail.com)](mailto:vjmn30@gmail.com)
 [![GitHub Vinicius Nunes]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Vinicius-Jr-Melo-Nunes)
