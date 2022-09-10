@@ -1,6 +1,6 @@
 
 
-<marquee bgcolor="#4B5C67" direction="Up" height="66" scrollamount="2" style="color: #666; font-family: Areal; font-size: 14pt; color: #fff;" width="50%" >Olá. Eu sou o Vinicius!</marquee>
+
 
 Olá. Eu sou o Vinicius!
 
