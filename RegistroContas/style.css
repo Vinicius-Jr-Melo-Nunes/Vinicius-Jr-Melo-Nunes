@@ -1,0 +1,11 @@
+img{
+    float: left;
+    width: 350px;
+    height: 450px;
+}
+.button{
+    width: 150px;
+}
+h1{
+    text-decoration-line: underline;
+}
