@@ -3,6 +3,19 @@
 
 
 <svg viewbox="0 0 100 20">
+  <style>
+    body,html{margin:0;padding:0;height:100%;}
+body{
+  background:url('https://farm9.staticflickr.com/8760/17195790401_ceeeafcddb_o.jpg');
+  background-size:cover;
+  font-family: 'Cabin Condensed', sans-serif;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+svg{font-weight:bold;max-width:600px;height:auto;}
+    <style/>
   <defs>
     <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
       <stop offset="5%" stop-color="#326384"/>
